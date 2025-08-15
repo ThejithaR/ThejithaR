@@ -32,7 +32,7 @@ _My work blends creativity with precision — whether it's crafting microservice
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThejithaR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThejithaR&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThejithaR&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
@@ -191,12 +191,12 @@ _My work blends creativity with precision — whether it's crafting microservice
 ```mermaid
 graph TB
     A[Full-Stack Development] --> B[Microservices Architecture]
-    A --> C[AI Integration]
+    A --> C[System Integration]
     A --> D[Database Design]
     B --> E[Event-Driven Systems]
     B --> F[Scalable APIs]
-    C --> G[Machine Learning]
-    C --> H[Computer Vision]
+    C --> G[Backend Development]
+    C --> H[Frontend Solutions]
     D --> I[Performance Optimization]
     D --> J[Data Modeling]
 ```
@@ -207,7 +207,7 @@ graph TB
 
 - 🏗️ **Microservices Architecture** - Expert in event-driven design and distributed systems
 - 🔧 **Full-Stack Solutions** - Building complete applications from database to frontend
-- 🧠 **AI Integration** - Implementing machine learning and computer vision solutions
+- 🤖 **System Integration** - Implementing intelligent solutions and API integrations
 - ⚡ **Performance Optimization** - Algorithm optimization and system efficiency
 - 🔨 **Problem Solving** - From algorithmic challenges to enterprise-scale solutions
 - 💻 **Versatile Coding** - Hardware-level programming to high-level application development
