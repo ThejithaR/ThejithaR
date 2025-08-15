@@ -37,7 +37,7 @@ _My work blends creativity with precision — whether it's crafting microservice
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThejithaR&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=ThejithaR&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
@@ -172,10 +172,14 @@ _My work blends creativity with precision — whether it's crafting microservice
 
 ---
 
-## 📈 Coding Activity
+## 📈 Contribution Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ThejithaR&theme=tokyonight&hide_border=true&layout=compact" alt="Wakatime Stats"/>
+  <img src="https://github-contribution-stats.vercel.app/api/?username=ThejithaR&theme=tokyonight&hide_border=true" alt="Contribution Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThejithaR&theme=tokyonight" alt="Profile Summary"/>
 </div>
 
 ---
@@ -210,10 +214,16 @@ graph TB
 
 ---
 
-## 🎮 GitHub Metrics
+## 📊 Additional Analytics
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/ThejithaR?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FColombo" alt="GitHub Metrics"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThejithaR&theme=tokyonight" alt="GitHub Stats Card"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThejithaR&theme=tokyonight" alt="Top Languages by Commit"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThejithaR&theme=tokyonight" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ThejithaR&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
 </div>
 
 ---
